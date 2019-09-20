@@ -21,6 +21,8 @@ dependency-reduced-pom.xml
 .classpath
 .project
 .settings/
+.theia/
+.vscode/
 
 # IntelliJ IDEA Files
 
